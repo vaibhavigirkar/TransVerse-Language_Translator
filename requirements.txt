@@ -1,3 +1,5 @@
+gunicorn
+
 # Core framework
 Django==5.2
 asgiref==3.8.1
